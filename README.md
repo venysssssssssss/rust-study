@@ -12,6 +12,7 @@
 fn main() {
 println!("Hello, world!");
 }
+Output => Hello, world!
 ```
-- Output => Hello, world!
+
     
