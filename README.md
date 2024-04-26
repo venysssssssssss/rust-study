@@ -1,6 +1,6 @@
 # rust-study / Studying rust because i think thats the new gen lang
 
-##Contents <!-- omit in toc -->
+## Contents <!-- omit in toc -->
 
 - [1. Getting started](#1-initializing-with-rust)
     - [1.1 Getting started](#11-initializing-with-rust)
