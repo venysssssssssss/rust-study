@@ -1,4 +1,4 @@
-# rust-study / Studying rust because i think thats the new gen lang
+# rust-study / Studying rust because i think thats the new gen lang.
 
 ## Contents <!-- omit in toc -->
 
